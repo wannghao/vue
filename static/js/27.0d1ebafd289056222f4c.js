@@ -1,4 +1,4 @@
-webpackJsonp([26],{"5lPQ":function(t,i){},bw12:function(t,i,e){"use strict";Object.defineProperty(i,"__esModule",{value:!0});
+webpackJsonp([27],{"5lPQ":function(t,i){},bw12:function(t,i,e){"use strict";Object.defineProperty(i,"__esModule",{value:!0});
 /*!
  * better-normal-scroll v1.12.6
  * (c) 2016-2018 ustbhuangyi
